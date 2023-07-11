@@ -1,7 +1,7 @@
 # Conversor Project
 
 <p align="center">
-  ![Conversor](https://github.com/SanRM/ConversorDeMonedas/assets/79220929/0d987021-6134-40e4-b70d-684ca3079948)
+  <img src="assets/Conversor.gif" alt="animated" />
 </p>
 
 ## Overview
